@@ -1,0 +1,28 @@
+name: Richard Interval
+favicon: null
+layout_spectrum: 0.33541079494170845
+typography_spectrum: 0.9585762589704245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.08675535046495497
+  lightness: 0.3808832345530391
+  saturation: 0.7463725579436868
+  rhythmicContrast: 0.4961137541104108
+purpose: []
